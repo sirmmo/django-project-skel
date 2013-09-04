@@ -1,5 +1,5 @@
 django>=1.4
 South>=0.8.0
-celery==3.0.23
-django-celery==3.0.23
-httplib2==0.8
+celery>=3.0
+django-celery>=3.0
+httplib2>=0.8
